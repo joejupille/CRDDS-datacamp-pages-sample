@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Rollin' Down The Mountain Goin' Fast Fast Fast
 ---
 
 ## Welcome everyone to my spiffy site!

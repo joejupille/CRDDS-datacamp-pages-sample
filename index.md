@@ -3,7 +3,7 @@ layout: default
 title: Rollin' Down The Mountain Goin' Fast Fast Fast
 ---
 
-<c># Rollin' Down The Mountain Goin' Fast Fast Fast</C>
+# Rollin' Down The Mountain Goin' Fast Fast Fast
 
 
 #### Here are some example pages:
